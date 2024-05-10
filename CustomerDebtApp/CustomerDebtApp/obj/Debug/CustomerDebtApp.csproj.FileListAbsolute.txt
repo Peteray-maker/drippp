@@ -1,0 +1,20 @@
+C:\Users\Ijeoma\Downloads\School\Data and algorithm\Assessment\CustomerDebtApp\CustomerDebtApp\bin\Debug\CustomerDebtApp.exe.config
+C:\Users\Ijeoma\Downloads\School\Data and algorithm\Assessment\CustomerDebtApp\CustomerDebtApp\bin\Debug\CustomerDebtApp.exe
+C:\Users\Ijeoma\Downloads\School\Data and algorithm\Assessment\CustomerDebtApp\CustomerDebtApp\bin\Debug\CustomerDebtApp.pdb
+C:\Users\Ijeoma\Downloads\School\Data and algorithm\Assessment\CustomerDebtApp\CustomerDebtApp\obj\Debug\CustomerDebtApp.csproj.AssemblyReference.cache
+C:\Users\Ijeoma\Downloads\School\Data and algorithm\Assessment\CustomerDebtApp\CustomerDebtApp\obj\Debug\CustomerDebtApp.Properties.Resources.resources
+C:\Users\Ijeoma\Downloads\School\Data and algorithm\Assessment\CustomerDebtApp\CustomerDebtApp\obj\Debug\CustomerDebtApp.csproj.GenerateResource.cache
+C:\Users\Ijeoma\Downloads\School\Data and algorithm\Assessment\CustomerDebtApp\CustomerDebtApp\obj\Debug\CustomerDebtApp.csproj.CoreCompileInputs.cache
+C:\Users\Ijeoma\Downloads\School\Data and algorithm\Assessment\CustomerDebtApp\CustomerDebtApp\obj\Debug\CustomerDebtApp.exe
+C:\Users\Ijeoma\Downloads\School\Data and algorithm\Assessment\CustomerDebtApp\CustomerDebtApp\obj\Debug\CustomerDebtApp.pdb
+C:\Users\Ijeoma\Downloads\School\Data and algorithm\Assessment\CustomerDebtApp\CustomerDebtApp\obj\Debug\CustomerDebtApp.Form1.resources
+C:\Users\user\Downloads\dotnet-project-main (1)\dotnet-project-main\CustomerDebtApp\CustomerDebtApp\bin\Debug\CustomerDebtApp.exe.config
+C:\Users\user\Downloads\dotnet-project-main (1)\dotnet-project-main\CustomerDebtApp\CustomerDebtApp\bin\Debug\CustomerDebtApp.exe
+C:\Users\user\Downloads\dotnet-project-main (1)\dotnet-project-main\CustomerDebtApp\CustomerDebtApp\bin\Debug\CustomerDebtApp.pdb
+C:\Users\user\Downloads\dotnet-project-main (1)\dotnet-project-main\CustomerDebtApp\CustomerDebtApp\obj\Debug\CustomerDebtApp.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\dotnet-project-main (1)\dotnet-project-main\CustomerDebtApp\CustomerDebtApp\obj\Debug\CustomerDebtApp.Form1.resources
+C:\Users\user\Downloads\dotnet-project-main (1)\dotnet-project-main\CustomerDebtApp\CustomerDebtApp\obj\Debug\CustomerDebtApp.Properties.Resources.resources
+C:\Users\user\Downloads\dotnet-project-main (1)\dotnet-project-main\CustomerDebtApp\CustomerDebtApp\obj\Debug\CustomerDebtApp.csproj.GenerateResource.cache
+C:\Users\user\Downloads\dotnet-project-main (1)\dotnet-project-main\CustomerDebtApp\CustomerDebtApp\obj\Debug\CustomerDebtApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\dotnet-project-main (1)\dotnet-project-main\CustomerDebtApp\CustomerDebtApp\obj\Debug\CustomerDebtApp.exe
+C:\Users\user\Downloads\dotnet-project-main (1)\dotnet-project-main\CustomerDebtApp\CustomerDebtApp\obj\Debug\CustomerDebtApp.pdb
